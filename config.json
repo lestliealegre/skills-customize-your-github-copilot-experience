@@ -41,6 +41,20 @@
       ]
     },
     {
+      "id": "python-data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Creating charts and graphs using matplotlib and plotly",
+      "path": "assignments/python-data-visualization",
+      "dueDate": "2026-05-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
