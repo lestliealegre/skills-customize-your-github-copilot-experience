@@ -7,7 +7,7 @@ Build the classic Hangman word-guessing game using Python to practice string man
 
 ## 📝 Tasks
 
-### 🛠️ Hangman Game Implementation
+### 🛠️	Hangman Game Implementation
 
 #### Description
 Create a complete Hangman game where players guess letters to reveal a hidden word before running out of attempts.
